@@ -31,11 +31,11 @@
 }
 .navbar a {
     position: relative;
-    font-size: 18px;
+    font-size: 22px;
     color:aliceblue;
     text-decoration:none;
     margin-left: 40px;
-    font-weight: 500;
+    font-weight: 700;
 }
 .navbar a::before {
     content: '';
